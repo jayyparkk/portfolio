@@ -1,13 +1,6 @@
-p {
- background-color: #FFFF33;
- color: #333300;
- text-align: right;
- border: 3px groove #FFFF33;
-}
-
 body {background-color: rgb(247, 247, 247);}
 
-@font-face {
+<p> @font-face {
     font-family: 'neue_montrealregular';
     src: url('neuemontreal-regular-webfont.woff2') format('woff2'),
          url('neuemontreal-regular-webfont.woff') format('woff');
@@ -15,3 +8,5 @@ body {background-color: rgb(247, 247, 247);}
     font-style: normal;
 
 }
+
+</p>
