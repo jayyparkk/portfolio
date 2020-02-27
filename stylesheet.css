@@ -1,5 +1,9 @@
 body {background-color: rgb(247, 247, 247);}
 
+div {
+    font-size:large;
+}
+
 <p> @font-face {
     font-family: 'neue_montrealregular';
     src: url('neuemontreal-regular-webfont.woff2') format('woff2'),
