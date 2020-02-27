@@ -1,7 +1,8 @@
 body {background-color: rgb(247, 247, 247);}
 
-div {
-    font-size:large;
+p {
+  font-family: "Courier", monospace;
+  font-size: 0.875em; /* 14px/16=0.875em */
 }
 
 </p>
