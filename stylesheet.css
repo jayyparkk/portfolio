@@ -1,16 +1,15 @@
 body {background-color: rgb(247, 247, 247);}
 
-p{
-  color: blue;
-}
-
-p{
-@font-face {
-    font-family: 'neue_montrealregular';
-    src: url('neuemontreal-regular-webfont.woff2') format('woff2'),
-         url('neuemontreal-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+{
+font-family: "Courier New", Courier, monospace;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: 6px;
+color: #1200FF;
+font-weight: normal;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: small-caps;
+text-transform: uppercase;
 }
 
