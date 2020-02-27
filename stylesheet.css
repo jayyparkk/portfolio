@@ -1,8 +1,14 @@
 body {background-color: rgb(247, 247, 247);}
 
-p {
-  font-family: "Courier", monospace;
-  font-size: 0.875em; /* 14px/16=0.875em */
+<p>
+
+@font-face {
+    font-family: 'neue_montrealregular';
+    src: url('neuemontreal-regular-webfont.woff2') format('woff2'),
+         url('neuemontreal-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 </p>
