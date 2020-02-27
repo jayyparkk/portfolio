@@ -1,7 +1,10 @@
 body {background-color: rgb(247, 247, 247);}
 
-<p>
+p{
+  color: blue;
+}
 
+p{
 @font-face {
     font-family: 'neue_montrealregular';
     src: url('neuemontreal-regular-webfont.woff2') format('woff2'),
@@ -11,4 +14,3 @@ body {background-color: rgb(247, 247, 247);}
 
 }
 
-</p>
